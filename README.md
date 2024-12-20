@@ -17,8 +17,6 @@ Technologies Used:
 HTML: For structuring the content of the website.
 
 Tailwind CSS: For styling and responsive design.
-Check it out!
-
-cd greenden-website
-
+Check it out ! 
+https://gokulprasant.github.io/Greenden-Tailwind/
 #Happy Coding!
